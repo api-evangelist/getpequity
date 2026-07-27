@@ -1,0 +1,22 @@
+# Pequity
+
+> Pequity is a compensation management software platform that helps HR, compensation, and finance teams plan pay cycles, manage pay ranges, benchmark salaries, run approval workflows, and share employee compensation portals — combining spreadsheet familiarity with automation at scale. Backed by Norwest Venture Partners. No public developer API is currently published.
+
+## Product
+- Solutions: https://pequity.com/solutions
+- Services: https://pequity.com/services
+- Pricing: https://pequity.com/pricing
+- Get a demo: https://pequity.com/demo
+- Get started: https://pequity.com/get-started
+
+## Integrations
+- Integrations overview (HRIS + ATS: Greenhouse, Lever, Workday, BambooHR, SuccessFactors, Ashby, and 50+ more): https://pequity.com/integrations
+
+## Resources
+- Blog: https://blog.pequity.com/
+- Login (application): https://pequity.app/login
+
+## Trust & Compliance
+- Security & compliance overview (SOC 2 Type 2, GDPR, Drata monitoring, pen-test summary, DPA, subprocessor list): https://pequity.com/security-overview
+- Terms of Service: https://pequity.com/terms
+- Privacy Policy: https://pequity.com/privacy

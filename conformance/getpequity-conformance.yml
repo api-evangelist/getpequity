@@ -1,0 +1,22 @@
+generated: '2026-07-19'
+method: searched
+source: https://pequity.com/security-overview
+standards:
+- id: soc2-type2
+  conforms: true
+  evidence: SOC 2 Type 2 certification published on the security overview page
+- id: gdpr
+  conforms: true
+  evidence: GDPR controls documented; DPA and subprocessor list available
+- id: iso27001
+  conforms: false
+- id: hipaa
+  conforms: false
+- id: pci-dss
+  conforms: false
+- id: ccpa
+  conforms: false
+notes: >-
+  Pequity is a compensation-management SaaS with no public API surface. These
+  are organizational compliance attestations published at
+  https://pequity.com/security-overview, not API-level standards conformance.

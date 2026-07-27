@@ -1,0 +1,32 @@
+generated: '2026-07-19'
+method: searched
+source: https://pequity.com/security-overview
+url: https://pequity.com/security-overview
+certifications:
+- SOC 2 Type 2
+- GDPR
+monitoring: Drata (continuous security posture monitoring)
+documents:
+- name: Penetration test report (latest summary)
+- name: Security measures documentation
+- name: Subprocessor list
+- name: Data Processing Addendum (DPA)
+- name: Privacy Policy
+- name: Terms of Use
+- name: SaaS Agreement Template
+contact:
+- zack@getpequity.com
+- brooke@getpequity.com
+evidence:
+- source: https://pequity.com/security-overview
+  keywords:
+  - soc 2 type 2
+  - gdpr
+  - drata
+  - penetration test
+  - subprocessor
+  - data processing addendum
+notes: >-
+  Security & compliance overview page functions as Pequity's trust surface. No
+  dedicated bug-bounty or published responsible-disclosure program was found;
+  security documentation is available on request via the contacts above.

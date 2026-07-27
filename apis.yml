@@ -1,9 +1,29 @@
 aid: getpequity
-name: Getpequity
-description: 'Getpequity is a company surfaced as a portfolio company of norwest-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead
-  awaiting the enrichment pipeline.'
+name: Pequity
+description: >-
+  Pequity is a compensation management software platform that helps HR,
+  compensation, and finance teams plan pay cycles, manage pay ranges, benchmark
+  salaries, run approval workflows, and share employee compensation portals. It
+  combines the familiarity of a spreadsheet with automation at scale, and syncs
+  compensation data through integrations with HRIS and applicant tracking
+  systems such as Workday, BambooHR, SuccessFactors, Greenhouse, Lever, and
+  Ashby. Pequity maintains SOC 2 Type 2 and GDPR compliance. It was surfaced as
+  a portfolio company of Norwest Venture Partners. No public developer API is
+  currently published; this profile captures the company's identity, security
+  posture, and trust surface.
 url: https://raw.githubusercontent.com/api-evangelist/getpequity/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/679469d3c4d8b900eab7009a/67ad1617851f27c9c398d61c_Pequity.com%20Opengraph%202025.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
-- Unknown
+- Compensation
+- Human Resources
+- HR Tech
+- Payroll
+- SaaS
+- Total Rewards
+- Compensation Management
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +51,32 @@ maintainers:
 common:
 - type: Website
   url: https://getpequity.com
+- type: Integrations
+  url: https://pequity.com/integrations
+- type: Pricing
+  url: https://pequity.com/pricing
+- type: Blog
+  url: https://blog.pequity.com/
+- type: Login
+  url: https://pequity.app/login
+- type: SignUp
+  url: https://pequity.com/get-started
+- type: TermsOfService
+  url: https://pequity.com/terms
+- type: PrivacyPolicy
+  url: https://pequity.com/privacy
+- type: TrustCenter
+  url: https://pequity.com/security-overview
+- type: Compliance
+  url: https://pequity.com/security-overview
+- type: DomainSecurity
+  url: security/getpequity-domain-security.yml
+- type: Conformance
+  url: conformance/getpequity-conformance.yml
+- type: LLMsTxt
+  url: llms/getpequity-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
