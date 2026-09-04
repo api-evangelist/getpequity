@@ -34,6 +34,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://getpequity.com', status: 301, note: 'declared website redirects to https://pequity.com/ — a different registrable domain (getpequity.com -> pequity.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://cdn.prod.website-files.com/679469d3c4d8b900eab7009a/67ad1617851f27c9c398d61c_Pequity.com%20Opengraph%202025.png
 x-type: company
 x-source: vc-portfolio
